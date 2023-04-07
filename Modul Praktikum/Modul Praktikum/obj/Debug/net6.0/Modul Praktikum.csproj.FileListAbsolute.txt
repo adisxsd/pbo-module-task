@@ -1,0 +1,15 @@
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.csproj.AssemblyReference.cache
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.exe
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.deps.json
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.runtimeconfig.json
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.dll
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.pdb
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.dll
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\refint\Modul Praktikum.dll
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.pdb
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\ref\Modul Praktikum.dll
